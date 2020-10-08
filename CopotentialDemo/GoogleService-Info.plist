@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>676587923037-0t5d8jiare7hvf7pqnh2gj9crm6tfq7g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676587923037-0t5d8jiare7hvf7pqnh2gj9crm6tfq7g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAow7M_DjY2nW578xbF4o_oB6_pw7Clju4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676587923037</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vsple.CopotentialDemo</string>
+	<key>PROJECT_ID</key>
+	<string>copotential-fea55</string>
+	<key>STORAGE_BUCKET</key>
+	<string>copotential-fea55.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676587923037:ios:22b67bafc3a6ad4478cfb4</string>
+	<key>DATABASE_URL</key>
+	<string>https://copotential-fea55.firebaseio.com</string>
+</dict>
+</plist>
